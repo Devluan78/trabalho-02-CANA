@@ -7,6 +7,9 @@
 Este repositório contém as soluções do Trabalho Computacional 02 da disciplina de Construção e Análise de Algoritmos 2025.1. 
 </p>
 
+## 🤖 Link com vídeo no YouTube
+
+<a href="https://youtu.be/7wpa6kGi1qA"><strong>Vídeo com a explicação das questões.</strong></a>.
 
 <div align="justify">
 
@@ -15,6 +18,7 @@ Este repositório contém as soluções do Trabalho Computacional 02 da discipli
 * Luan Siqueira Da Silva
 * José Vinício Olivindo Dias
 * Fabrício Lima Medeiros
+* Luiz Guilherme Lima Silva
 
  ## 📋 Requisitos ou Instruções
 
@@ -34,7 +38,8 @@ Por favor, sinta-se à vontade para entrar em contato conosco para qualquer dúv
 
 * Questão 21 --> luan.siqueira@08aluno.ifce.edu.br
 * Questão 22 --> fabricio.medeiros60@aluno.ifce.edu.br
-* Questã0 24 --> jose.vinicio08@aluno.ifce.edu.br
+* Questã0 23 --> jose.vinicio08@aluno.ifce.edu.br
+* Questão 24 --> OBS: Devido a desistência do nosso colega Luiz Guilherme Lima Silva, não foi possível entregar essa questão.
 
 
 ## 📚 Referências
