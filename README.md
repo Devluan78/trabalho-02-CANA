@@ -22,12 +22,13 @@ Este repositório contém as soluções do Trabalho Computacional 02 da discipli
 
  ## 📋 Requisitos ou Instruções
 
-Requisito	                              Python	                                          C
-Instalação necessária	           Interpretador Python	                          Compilador GCC/Clang
-Extensão do arquivo	                       .py	                                             .c
-Necessita compilação?	                   Não	                                             Sim
-Execução	                        python arquivo.py	                   gcc arquivo.c -o programa → ./programa
-IDEs comuns	                         VS Code, PyCharm	                        VS Code, Dev-C++, Code::Blocks
+Para a execução dos programas desenvolvidos em Python e C, foi necessário dispor de um computador com sistema operacional compatível, como Windows, Linux ou macOS, além de um editor de código para a escrita dos programas, como Visual Studio Code.
+
+No caso da linguagem Python, é indispensável a instalação do interpretador Python, responsável por executar diretamente os arquivos com extensão .py. Após a instalação, os programas podem ser executados por meio do terminal utilizando os comandos python ou python3.
+
+Já para a linguagem C, é necessário instalar um compilador, como o GCC (GNU Compiler Collection), que transforma o código-fonte em um arquivo executável. Os programas em C são escritos em arquivos com extensão .c, compilados através do comando gcc e, posteriormente, executados no sistema operacional.
+
+Dessa forma, os principais requisitos para ambas as linguagens incluem um ambiente de desenvolvimento, as ferramentas específicas de execução (interpretador ou compilador) e um sistema operacional compatível para a execução dos programas.
 
 
 ## 👏 Contato
